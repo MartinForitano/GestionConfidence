@@ -1,0 +1,2 @@
+CREATE USER 'confidenceuser'@'localhost' IDENTIFIED BY 'podersasrl';
+grant all privileges on confidence.* to confidenceuser@localhost;
