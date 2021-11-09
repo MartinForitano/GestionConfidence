@@ -6,4 +6,4 @@
 
 3_Import database (DB.sql) using MySQL ver. 5.7 (Database's target name = confidence)
 
-4_Run the querys allocated in "Commands.txt" 
+4_Run the querys allocated in "Commands.txt" using MySQL Workbench
